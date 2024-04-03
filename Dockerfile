@@ -1,0 +1,1 @@
+FROM ghcr.io/brody192/volume-filebrowser:sha256-9c3a22c176f0e6e1549d3ca8f0795686694ed6f250b99edfc3d0a95e2e097741.sig
